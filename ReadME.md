@@ -19,15 +19,6 @@
 <div align="center">
 
 ```yaml
-name: Hussein Abd Ulkareem Jabbar
-role: Frontend Developer
-experience: 2+ Years
-phone: "+964 7741784789"
-email: h.abdulkareem.j@gmail.com
-portfolio: https://hussein-flax.vercel.app/
-linkedin: https://www.linkedin.com/in/hussein-abdulkareem-98770337b/
-github: https://github.com/HusseinAbdulkareem
-```
 
 </div>
 
