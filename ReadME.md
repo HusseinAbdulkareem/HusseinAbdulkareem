@@ -1,24 +1,3 @@
-<div align="center" style="max-width:100%; overflow:hidden;">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Hussein+Abd+Ulkareem+Jabbar;Frontend+Developer;React+%7C+Next.js+%7C+React+Native;2%2B+Years+Experience"
-    alt="Typing Animation"
-    style="max-width:100%; margin-bottom:32px;"
-  />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-00F5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Iraq-22C55E?style=for-the-badge" />
-</div>
-
----
-
-<h2 align="center">About Me</h2>
-
-<div align="center">
-
-```yaml
 
 </div>
 
