@@ -1,7 +1,7 @@
 
 </div>
 
-Frontend Developer with over 2 years of experience building high-performance, responsive web and mobile applications. Specialized in React, Next.js, React Native, JavaScript, and TypeScript, with hands-on experience developing enterprise systems, government platforms, media applications, and e-commerce solutions.
+Full-Stack Developer with over 2 years of experience building multi-tenant web and mobile applications using React, Next.js, and Laravel. Skilled in designing clean, role-based interfaces, integrating local payment gateways, and delivering features end to end from database design to deployment. Comfortable working across the stack and collaborating closely with teams to ship reliable, production-ready products
 
 I focus on delivering secure, scalable, and production-ready digital products with clean user interfaces, strong performance, and reliable frontend architecture.
 
